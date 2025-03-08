@@ -41,3 +41,10 @@ Join us in shaping the future of AI. Let's transform LLaMA 3.1 together!
 Good luck, and we look forward to seeing what you create!
 
 The EraX Team.
+
+@misc{EraX,
+  author = {Nguyễn Anh Nguyen},
+  title = {Re-engineer LLaMA-3.1-8B with DeepSeek R1's MLA and MoE},
+  year = {2025},
+  homepage = {\url{https://github.com/EraX-JS-Company/LLaMA3.1-8B-DeepSeekR1-MLA-MoE/tree/main}}
+}

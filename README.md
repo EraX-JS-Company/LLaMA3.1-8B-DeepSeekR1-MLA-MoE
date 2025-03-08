@@ -40,7 +40,7 @@ We're excited to share the code and raw model – refined with insights from Cla
 
 *   **Experience the Future:** Reload and rigorously test the newly architected model, unlocking its potential. Use standard 🤗 Transformers without any PR required.
   
-*   **Unlock New Frontiers:** Leverage our continual pretraining code, powered by FSDP (or DDP for BitAndBytes 8-bit optimization), to push the boundaries of model performance. Our codes freezing all original layers and only continual pretraining the new ones. You will need to continual pretrain the new model with 25G - 40G multi-lingual multi-domain corpus and some 100k finetuning (or distiling from DeepSeek R1), plus some serious GRPO to make use the full power of this new model and retain most of LLaMA-3.1 8B world knowledge.
+*   **Unlock New Frontiers:** Leverage our continual pretraining code, powered by FSDP (or DDP for BitAndBytes 8-bit optimization), to push the boundaries of model performance. Our codes freeze all original layers and only continual pretraining the new ones. You will need to continual pretrain the new model with 25G - 40G multi-lingual multi-domain corpus and some 100k finetuning (or distiling from DeepSeek R1), plus some serious GRPO to make use the full power of this new model and retain most of LLaMA-3.1 8B world knowledge.
 
 ## The Challenge: Unleashing the Power
 

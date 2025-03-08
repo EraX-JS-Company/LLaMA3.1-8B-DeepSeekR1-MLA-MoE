@@ -54,7 +54,7 @@ If you find our project useful, we would appreciate it if you could star our rep
 ```
 @article{EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw,
   title={EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw: Reimagine LLaMA 3.1 with DeepSeek's Innovation!},
-  author={Nguyễn Anh Nguyên},
+  author={Nguyễn Anh Nguyên - nguyen@erax.ai},
   organization={EraX},
   year={2025},
   url={https://huggingface.co/erax-ai/EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw},

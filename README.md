@@ -2,7 +2,7 @@
   <img src="https://cdn-uploads.huggingface.co/production/uploads/63d8d8879dfcfa941d4d7cd9/GsQKdaTyn2FFx_cZvVHk3.png" alt="Logo">
 </p>
 
-# EraX: Reimagine LLaMA 3.1 with DeepSeek's Innovation – and We Need Your Help!
+# EraX: Reimagine LLaMA 3.1 with DeepSeek's Innovation!
 
 At EraX, curiosity drives us. We've taken the groundbreaking LLaMA 3.1 8B model and engineered a revolutionary transformation, selectively integrating DeepSeek R1's cutting-edge Multi-Head Latent Attention (MLA) and Mixture of Experts (MoE) layers.
 

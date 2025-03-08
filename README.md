@@ -6,7 +6,7 @@
 
 At EraX, curiosity drives us. We've taken the groundbreaking LLaMA 3.1 8B model and engineered a revolutionary transformation, selectively integrating DeepSeek R1's cutting-edge Multi-Head Latent Attention (MLA) and Mixture of Experts (MoE) layers.
 
-We're excited to share the code and raw model – refined with insights from Claude Sonnet 3.7 – enabling you to:
+We're excited to share the code and rather raw model – refined with insights from Claude Sonnet 3.7 – enabling you to:
 
 *   **Transform LLaMA 3.1:** Seamlessly convert specific layers of LLaMA 3.1-8B to DeepSeek R1's advanced MLA and MoE architecture.
     * For **MLA**, we picked layers 8, 10, 12, 14, 16, 18, 20, 22, 24. This alternate Layers approach converting every other layer offers several advantages:

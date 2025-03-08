@@ -58,6 +58,10 @@ Good luck, and we look forward to seeing what you create!
 
 The EraX Team.
 
+## License:
+- **MIT** follows DeepSeek R1's license
+- LLaMA.3.1 8B is under **[llama3.1 license](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct/blob/main/LICENSE)**
+
 ## Citation 📝
 <!-- title={EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw: Reimagine LLaMA 3.1 with DeepSeek's Innovation!},
   author={Nguyễn Anh Nguyên},

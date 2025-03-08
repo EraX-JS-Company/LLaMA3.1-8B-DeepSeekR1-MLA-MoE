@@ -42,9 +42,22 @@ Good luck, and we look forward to seeing what you create!
 
 The EraX Team.
 
-@misc{EraX,
-  author = {Nguyễn Anh Nguyen},
-  title = {Re-engineer LLaMA-3.1-8B with DeepSeek R1's MLA and MoE},
-  year = {2025},
-  homepage = {\url{https://github.com/EraX-JS-Company/LLaMA3.1-8B-DeepSeekR1-MLA-MoE/tree/main}}
+## Citation 📝
+<!-- title={EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw: Reimagine LLaMA 3.1 with DeepSeek's Innovation!},
+  author={Nguyễn Anh Nguyên},
+  organization={EraX},
+  year={2025},
+  url={https://huggingface.co/erax-ai/EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw},
+  github={https://github.com/EraX-JS-Company/LLaMA3.1-8B-DeepSeekR1-MLA-MoE/tree/main} -->
+  
+If you find our project useful, we would appreciate it if you could star our repository and cite our work as follows:
+```
+@article{EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw,
+  title={EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw: Reimagine LLaMA 3.1 with DeepSeek's Innovation!},
+  author={Nguyễn Anh Nguyên},
+  organization={EraX},
+  year={2025},
+  url={https://huggingface.co/erax-ai/EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw},
+  github={https://github.com/EraX-JS-Company/LLaMA3.1-8B-DeepSeekR1-MLA-MoE}
 }
+```

@@ -9,7 +9,8 @@ At EraX, curiosity drives us. We've taken the groundbreaking LLaMA 3.1 8B model 
 We're excited to share the code and raw model – refined with insights from Claude Sonnet 3.7 – enabling you to:
 
 *   **Transform LLaMA 3.1:** Seamlessly convert specific layers of LLaMA 3.1-8B to DeepSeek R1's advanced MLA and MoE architecture.
-    *   For **MLA**, we picked layers 8, 10, 12, 14, 16, 18, 20, 22, 24. This alternate Layers approach converting every other layer offers several advantages:
+
+    * For **MLA**, we picked layers 8, 10, 12, 14, 16, 18, 20, 22, 24. This alternate Layers approach converting every other layer offers several advantages:
           - Gradient stability: Alternating patterns help maintain more stable gradient flow
           - Architectural diversity: Provides a mix of processing mechanisms that can be complementary
           - Lower implementation risk: More conservative approach that preserves some of the original architecture

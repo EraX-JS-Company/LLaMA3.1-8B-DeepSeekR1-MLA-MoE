@@ -36,7 +36,7 @@ We believe in democratizing AI. If you're in a position to contribute compute re
 
 Join us in shaping the future of AI. Let's transform LLaMA 3.1 together!
 
-**You can access the raw converted model at: [EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw]((https://huggingface.co/erax-ai/EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw))**
+**You can access the raw converted model at: [EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw](https://huggingface.co/erax-ai/EraX-LLaMA3.1-8B-DeepSeekR1-MLA-MoE-Raw)**
 
 Good luck, and we look forward to seeing what you create!
 

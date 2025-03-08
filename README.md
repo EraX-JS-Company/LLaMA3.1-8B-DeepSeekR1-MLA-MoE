@@ -24,7 +24,7 @@ We're excited to share the code and raw model – refined with insights from Cla
 
 *   **Experience the Future:** Reload and rigorously test the newly architected model, unlocking its potential.
   
-*   **Unlock New Frontiers:** Leverage our continual pretraining code, powered by FSDP (or DDP for BitAndBytes 8-bit optimization), to push the boundaries of model performance. You my need to continual pretrain the new model with 25G - 40G multi-lingual multi-domain corpus and do some finetuning plus GRPO to make use the full power of this new model
+*   **Unlock New Frontiers:** Leverage our continual pretraining code, powered by FSDP (or DDP for BitAndBytes 8-bit optimization), to push the boundaries of model performance.  You will need to continual pretrain the new model with 25G - 40G multi-lingual multi-domain corpus and do some finetuning plus GRPO to make use the full power of this new model and retain most of LLaMA-3.1 8B's world knowledge.
 
 ## The Challenge: Unleashing the Power
 

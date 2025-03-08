@@ -38,7 +38,7 @@ We're excited to share the code and raw model – refined with insights from Cla
 
     * **Dimension Safety Checks:** All transfers include dimension checks to handle potential mismatches:
 
-*   **Experience the Future:** Reload and rigorously test the newly architected model, unlocking its potential. Use standard 🤗 Transformers without any PR required.
+*   **Experience the Future:** Reload and rigorously test the newly architected model, unlocking its potential. Use standard 🤗 Transformers without any PR required. This model has **50% more capacity**, use **much less memory for long context up to 256k on 8xH100**, it also **much faster** but requires only approximated **9B** params which is closed to the original LLaMA 3.1 8B.
   
 *   **Unlock New Frontiers:** Leverage our continual pretraining code, powered by FSDP (or DDP for BitAndBytes 8-bit optimization), to push the boundaries of model performance. Our codes freeze all original layers and only continual pretraining the new ones. You will need to continual pretrain the new model with 25G - 40G multi-lingual multi-domain corpus and some 100k finetuning (or distiling from DeepSeek R1), plus some serious GRPO to make use the full power of this new model and retain most of LLaMA-3.1 8B world knowledge.
 

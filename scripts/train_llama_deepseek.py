@@ -83,8 +83,6 @@ from llama_deepseek_convert import (
     LlamaDeepSeekDecoderLayer,
     LlamaDeepSeekModel,
     LlamaDeepSeekForCausalLM,
-    register_llama_deepseek_model,
-    load_converted_model,
 )
 
 # Set up logging
